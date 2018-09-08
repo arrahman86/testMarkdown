@@ -1,2 +1,1 @@
-Dear **Math**, please grow up and __solve__ your own problems,
-I'm tired of solving them for you.
+I'm in desperate need of a **_6 month vacation**, twice a year. 
