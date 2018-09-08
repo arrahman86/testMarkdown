@@ -1,6 +1,5 @@
-> #### The quarterly results look great!
->
-> - Revenue was off the chart.
-> - Profits were higher than ever.
->
->  *Everything* is going according to **plan**.
+1. First
+2. Second
+1. Indented item
+2. Indented item
+3. Third
