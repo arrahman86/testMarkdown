@@ -1,5 +1,3 @@
-- First
-- First
-- First
+* First
 * Second
-+ Third
+* Third
