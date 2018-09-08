@@ -1,7 +1,3 @@
-I'm in desperate need of a 6 month vacation, twice a year. I'm in desperate need of a 6 month vacation, twice a year. I'm in desperate need of a 6 month vacation, twice a year. I'm in desperate need of a 6 month vacation, twice a year.
-
-> I'm in desperate need of a 6 month vacation, twice a year. 
-
->I'm in desperate need of a 6 month vacation, twice a year. I'm in desperate need of a 6 month vacation, twice a year. I'm in desperate need of a 6 month vacation, twice a year.
-
-I'm in desperate need of a 6 month vacation, twice a year. I'm in desperate need of a 6 month vacation, twice a year. I'm in desperate need of a 6 month vacation, twice a year. I'm in desperate need of a 6 month vacation, twice a year.
+>Data is changing how we work, how we live and how we think about the world.
+>
+>Data science is widely recognized as one of the fastest growing career fields in Canada and the world.
