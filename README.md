@@ -1,7 +1,8 @@
-Commonly used git commands are 
-```git status
+Commonly used Git commands are 
+```
+git status
 git add
 git commit
 git pull 
 git push
-``` 
+```
