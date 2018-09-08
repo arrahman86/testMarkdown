@@ -1,6 +1,3 @@
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+Dear Math, please grow up and solve your own problems, I'm tired of solving them for you.
+
+I love my job only when I'm on vacation. 
