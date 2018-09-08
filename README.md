@@ -1,3 +1,6 @@
->Data is changing how we work, how we live and how we think about the world.
+> #### The quarterly results look great!
 >
->Data science is widely recognized as one of the fastest growing career fields in Canada and the world.
+> - Revenue was off the chart.
+> - Profits were higher than ever.
+>
+>  *Everything* is going according to **plan**.
