@@ -1,6 +1,1 @@
-1. First
-2. Second
-   1.  Indented item
-   2.  Indented item
-3. Third
-4.
+Commonly used hit commands are `git status`, `git commit`, `git pull` and `git push`. 
